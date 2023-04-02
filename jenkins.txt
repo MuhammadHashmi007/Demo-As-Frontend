@@ -1,0 +1,3 @@
+Jenkins - java based
+integrating GitHub ( developing code - gradle - github - integrate - deployment )
+Github Repositories for builds code over there to deploy.
